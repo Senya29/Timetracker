@@ -1,5 +1,5 @@
 # Timetracker
-Created for CaliRP Sons of Anarchy
+Created a long time ago
 
 ## Terms
 
