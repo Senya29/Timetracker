@@ -9,7 +9,7 @@ bot = commands.Bot(command_prefix="!", intents=intents, activity=activity ,help_
 @bot.listen("on_ready")
 async def readyed():
     print(f"""
-    Reaper Bot for Sons of Anarchy
+
     Created By: Senya29_
     Version: 1.0
     Bot Name: {bot.user}
