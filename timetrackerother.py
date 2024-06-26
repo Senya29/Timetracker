@@ -15,8 +15,7 @@ from pytz import timezone
 
 """
 Timetracker.py Created by Senya29_#7672
-Created for Sons of Anarchy SPECIFICLY will not work for anything else
-tbh only god and i know how this works lol
+
 
 """
 class timetrackercopy(commands.Cog):
